@@ -4,7 +4,7 @@ This project utilizes the XGBoost algorithm to predict house prices in Californi
 
 ## Project Overview
 
-The goal of this project is to build a regression model that accurately predicts house prices using the California House Price Dataset. The dataset contains various features related to houses in California, and the target variable is the corresponding house price. The steps involved in this project are as follows:
+The goal of this project is to build a regression model that accurately predicts house prices using the Boston House Price Dataset. The dataset contains various features related to houses in Boston, and the target variable is the corresponding house price. The steps involved in this project are as follows:
 
 1. **Data Preprocessing**: The dataset is loaded, inspected for missing values, and prepared for model training.
 2. **Exploratory Data Analysis**: Correlation between features is visualized using a heatmap to gain insights into relationships among variables.
